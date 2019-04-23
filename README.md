@@ -1,2 +1,2 @@
 # giuliana
-nome da minha filha
+este eh o primeiro projeto em GitHub
